@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alestcarvalho@gmail.com
+	name = Alexandre Carvalho
